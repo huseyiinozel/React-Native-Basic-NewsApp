@@ -11,6 +11,7 @@ function App() {
     return (
         <SafeAreaView style={styles.container}>
             <Text style={styles.header} >News</Text>
+            <Text>Commit Try</Text>
             <View>
            
             <FlatList
